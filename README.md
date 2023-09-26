@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is George, I have been living in Edinburgh since December 2022.
 
-I'm a highly motivated software developer with passion for coding and a proficiency in Java, Python, and JavaScript.
+I'm a highly motivated software developer with a passion for coding and proficiency in Java, Python, and JavaScript.
 
 In July 2023 I started my journey to became a software developer by joining the 16-week professional software developer bootcamp at CodeClan.
 One month later (week 5) CodeClan went into liquidation (lucky us!), but thankfully with the help of our
