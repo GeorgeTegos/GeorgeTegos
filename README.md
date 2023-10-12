@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is George, I have been living in Edinburgh since December 2022.
+My name is George, I am a Junior Software Developer who has been living in Edinburgh, UK since December 2022.
 
 I'm a highly motivated software developer with a passion for coding and proficiency in Java, Python, and JavaScript.
 
